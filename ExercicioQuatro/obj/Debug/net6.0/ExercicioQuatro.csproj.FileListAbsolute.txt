@@ -1,0 +1,15 @@
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\bin\Debug\net6.0\ExercicioQuatro.exe
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\bin\Debug\net6.0\ExercicioQuatro.deps.json
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\bin\Debug\net6.0\ExercicioQuatro.runtimeconfig.json
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\bin\Debug\net6.0\ExercicioQuatro.dll
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\bin\Debug\net6.0\ExercicioQuatro.pdb
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.csproj.AssemblyReference.cache
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.AssemblyInfoInputs.cache
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.AssemblyInfo.cs
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.csproj.CoreCompileInputs.cache
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.dll
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\refint\ExercicioQuatro.dll
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.pdb
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ExercicioQuatro.genruntimeconfig.cache
+D:\Dev em Dobro - portifólio\ExercicioQuatro\ExercicioQuatro\obj\Debug\net6.0\ref\ExercicioQuatro.dll
